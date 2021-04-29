@@ -1,0 +1,22 @@
+{
+    "name": "luoyy/pay-ext",
+    "description": "Pay extension",
+    "type": "library",
+    "keywords": ["pay", "extension"],
+    "license": "MIT",
+    "version": "v1.0.8",
+    "authors": [{
+        "name": "luoyy",
+        "email": "zishang520@gmail.com"
+    }],
+    "require": {
+        "php": ">=7.0.0",
+        "yansongda/pay": "^2.10",
+        "guzzlehttp/guzzle": "^6.3 || ^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yansongda\\Pay\\": "src/"
+        }
+    }
+}
