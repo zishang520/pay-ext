@@ -4,7 +4,6 @@
     "type": "library",
     "keywords": ["pay", "extension"],
     "license": "MIT",
-    "version": "v1.0.8",
     "authors": [{
         "name": "luoyy",
         "email": "zishang520@gmail.com"
